@@ -1,8 +1,8 @@
-#First-neural-network
+## First-neural-network
 In this project, I build a neural network and use it to predict daily bike rental ridership.
 Some code was provided for data preprocessing, but left the implementation of the neural network as an assessment.
 
-#Data Description
+## Data Description
 Both hour.csv and day.csv have the following fields, except hr which is not available in day.csv
 	
 	- instant: record index
