@@ -5,3 +5,5 @@ GRE Scores (Test)
 GPA Scores (Grades)
 Class rank (1-4)
 The dataset originally came from here: http://www.ats.ucla.edu/
+
+The network used for prediction is composed of 2 layers and feedforward and backword propagartion were implemented manually.
